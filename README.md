@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 
-### Croixiosx 🐧 
+### Amatosesg 🐧 
 <!--
-**Croixiosx/Croixiosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amatosesg/Amatosesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```php 
-$croixiosx = array(
-$croixiosx = [
+$Amatosesg = array(
+$Amatosesg = [
     'name'=> 'Adrià',
     'location'=> 'Valencia',
     'age'=> 23,
