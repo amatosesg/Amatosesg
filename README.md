@@ -15,9 +15,9 @@
 </h1>
 
 ### 👨‍💻 About me:  
-- 💻 Junior Fullstack Developer. Javascript Lover.
-- 👨‍🚀 I'm starting my internship this June in <a href="https://vickyfoods.es/">Vicky Foods</a> IT Department.
-- 🌱 Teaching myself Node.js.
+- 💻 Fullstack Developer. Javascript Lover.
+- 👨‍🚀 Working as a Fullstack Developer in <a href="https://vickyfoods.es/">Vicky Foods</a> IT Department.
+- 🌱 Teaching myself MERN stack.
 - 🏖️ On my free time I love to practice programming and develop new crazy ideas.
 - 📫 How to reach me: adriamg.matoses@gmail.com.
 
