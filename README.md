@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About me:  
 - 💻 Fullstack Developer. Javascript Lover.
-- 👨‍🚀 Working as a Fullstack Developer in <a href="https://vickyfoods.es/">Vicky Foods</a> IT Department.
+- 👨‍🚀 Working as a Fullstack Developer in <a href="https://izertis.com/">IZERTIS</a>.
 - 🌱 Teaching myself MERN stack.
 - 🏖️ On my free time I love to practice programming and develop new crazy ideas.
 - 📫 How to reach me: adriamg.matoses@gmail.com.
