@@ -15,9 +15,9 @@
 </h1>
 
 ### 👨‍💻 About me:  
-- 💻 Fullstack Developer. Javascript Lover.
-- 👨‍🚀 Working as a Fullstack Developer in <a href="https://izertis.com/">IZERTIS</a>.
-- 🌱 Teaching myself MERN stack.
+- 💻 Software Developer. Javascript Lover.
+- 👨‍🚀 Working as a Fullstack Developer & Data Analyst in <a href="https://izertis.com/">IZERTIS</a>.
+- 🌱 Studying for a Bachelor's degree in Computer Science.
 - 🏖️ On my free time I love to practice programming and develop new crazy ideas.
 - 📫 How to reach me: adriamg.matoses@gmail.com.
 
@@ -40,9 +40,4 @@
 </div>
 
 ---
-
-### 🔥My Apps :
-- Todolist App: <a href="https://amatosesg.github.io/todoListApp/">Todo List</a>
-- Blackjack: <a href="https://amatosesg.github.io/blackjack/">Blackjack Game</a>
-- Conquest Game (Work in Progress): ...
 
